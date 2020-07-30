@@ -30,6 +30,6 @@
    - [Recursos de front](https://nodesign.dev/)
    - [neumorphism](https://neumorphism.io/#444444)
 1. JavaScript
-   -[Ayuda String](https://desarrolloweb.com/articulos/objetos-string-javascript.html)
-   -[Metodos Arrays](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/sort)
-   -[Para Posición en scroll](https://developer.mozilla.org/es/docs/Web/API/Intersection_Observer_API)
+   - [Ayuda String](https://desarrolloweb.com/articulos/objetos-string-javascript.html)
+   - [Metodos Arrays](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array/sort)
+   - [Para Posición en scroll](https://developer.mozilla.org/es/docs/Web/API/Intersection_Observer_API)
