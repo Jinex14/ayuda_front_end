@@ -3,7 +3,7 @@
 [Repositorio del profesor](https://github.com/jorgegarba/codigo-virtual-3)
 
 1. Git
-   - [Git.](https://github.com/Jinex14/CursoWebFront/blob/master/Clase01/Readme.md) 
+   - [Git.](https://github.com/Jinex14/ayuda_front_end/blob/master/fit_command.md) 
    - [markdown](https://www.markdowntutorial.com/es/)
 1. Git - HTML
    - [Libro HTML](https://github.com/Jinex14/CursoWebFront/blob/master/Semana01/Dia02/El%20gran%20libro%20de%20HTML5%2C%20CSS3%20y%20JavaScript%20Ed%203.pdf) 
