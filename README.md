@@ -3,7 +3,7 @@
 [Repositorio del profesor](https://github.com/jorgegarba/codigo-virtual-3)
 
 1. Git
-   - [Git.](https://github.com/Jinex14/ayuda_front_end/blob/master/fit_command.md) 
+   - [Git.](https://github.com/Jinex14/CursoWebFront/blob/master/Clase01/Readme.md) 
    - [markdown](https://www.markdowntutorial.com/es/)
 1. Git - HTML
    - [Libro HTML](https://github.com/Jinex14/CursoWebFront/blob/master/Semana01/Dia02/El%20gran%20libro%20de%20HTML5%2C%20CSS3%20y%20JavaScript%20Ed%203.pdf) 
@@ -35,3 +35,14 @@
    - [Para Posición en scroll](https://developer.mozilla.org/es/docs/Web/API/Intersection_Observer_API)
    - [Eventos de JS](https://developer.mozilla.org/es/docs/Web/Events)
    - [Data Dummy](https://www.generatedata.com/)
+   - [Expresiones regulares](https://regexr.com/)
+1. Librerias JS
+   - [Waves ripple effects](http://fian.my.id/Waves/)
+
+1. REACT
+   ### Comandos de react
+   ```
+   npm i -g yarn
+   npx create-react-app my-app      (my-app es el nombre del proyecto)
+   npm start                        (Comando para iniciar el proyecto)
+   ```
