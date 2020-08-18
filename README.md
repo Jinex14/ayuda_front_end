@@ -43,6 +43,7 @@
    ### Comandos de react
    ```
    npm i -g yarn
+   npm cache clean --force             (Limpiar la cache)
    npx create-react-app my-app         (my-app es el nombre del proyecto)
    npm start                           (Comando para iniciar el proyecto)
    npm uninstall -g create-react-app   (Comando para borrar react)
