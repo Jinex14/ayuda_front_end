@@ -48,3 +48,19 @@
    npm start                           (Comando para iniciar el proyecto)
    npm uninstall -g create-react-app   (Comando para borrar react)
    ```
+   ### Recomendaciones
+   ```
+   href="#"  =======> href="!#"
+   class  =======> className
+   ```
+   ### Snippets de la extensión ES7 React/Redux/GraphQL/React-Native snippets
+   ```
+   rafce                               (Crea el archivo App)
+   ```
+   ### Configurar el autocompletado
+   Ir a file > preferences > settings > Code Action on Save y agregar lo siguiente:
+   ```
+   "emmet.includeLanguages": {
+        "javascript":"javascriptreact"
+    },
+    ```
