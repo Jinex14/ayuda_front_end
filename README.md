@@ -2,6 +2,8 @@
 
 [Repositorio del profesor](https://github.com/jorgegarba/codigo-virtual-3)
 
+1. Recursos
+   - [Obtener imagenese de otros medios](https://downloader.la/)
 1. Git
    - [Git.](https://github.com/Jinex14/CursoWebFront/blob/master/Clase01/Readme.md) 
    - [markdown](https://www.markdowntutorial.com/es/)
@@ -40,6 +42,8 @@
    - [Waves ripple effects](http://fian.my.id/Waves/)
 
 1. REACT
+   - [Libreria para forms](https://react-hook-form.com/)
+   
    ### Comandos de react
    ```
    npm i -g yarn
