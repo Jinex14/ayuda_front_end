@@ -43,7 +43,7 @@
 
 1. REACT
    - [Libreria para forms](https://react-hook-form.com/)
-   
+   - [Scroll en la misma pagina](https://stackoverflow.com/questions/43441856/how-to-scroll-to-an-element)
    ### Comandos de react
    ```
    npm i -g yarn
@@ -51,6 +51,7 @@
    npx create-react-app my-app         (my-app es el nombre del proyecto)
    npm start                           (Comando para iniciar el proyecto)
    npm uninstall -g create-react-app   (Comando para borrar react)
+   npm install react-router-dom        [Libreria para navegar entre paginas](https://reactrouter.com/web/guides/quick-start)
    ```
    ### Recomendaciones
    ```
